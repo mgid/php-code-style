@@ -1,0 +1,5 @@
+* text=auto !eol
+Sniffs/Functions/FunctionCallSignatureSniff.php -text
+Sniffs/Methods/MethodDeclarationSniff.php -text
+Sniffs/NamingConventions/ValidVariableNameSniff.php -text
+/ruleset.xml -text
